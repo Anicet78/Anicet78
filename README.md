@@ -116,7 +116,7 @@ My focus is on **graphics programming and low-level C/C++** — I've written a r
 
 | Project | Description | Langage |
 |---------|-------------|---------|
-| [**ft_transcendence**](https://github.com/Anicet78/ft_transcendence) | Real-time multiplayer Dungeon crawler game — WebSocket, auth, matchmaking | TypeScript, Node.js, React |
+| [**DungeonNoDragon**](https://github.com/Anicet78/ft_transcendence) | Real-time multiplayer Dungeon crawler game — WebSocket, auth, matchmaking | TypeScript, Node.js, React |
 
 ---
 
