@@ -25,9 +25,14 @@
 
 Graduated from 42 Paris (March 2026), currently preparing RNCP level 7 in Information Systems & Networks.
 
-My focus is on **graphics programming and low-level C/C++** — I've written a ray tracer, a 3D engine, a custom memory allocator, and a UNIX shell from scratch. I also shipped a full-stack real-time web app and built an HTTP server from scratch, so I'm not lost when the stack goes higher. I care about understanding why things work, not just making them work.
+My focus is on **graphics programming and low-level C/C++**, with a strong interest in how software behaves **in real environments — from memory to production infrastructure**.
 
-→ **Looking for an internship in 2026** — graphics, systems, backend, or anywhere fundamentals matter.
+I've written a ray tracer, a 3D engine, a custom memory allocator, and a UNIX shell from scratch. I also built an HTTP server and deployed full-stack applications, which led me to explore **DevOps practices, containerization, and system reliability**.
+
+I care about understanding systems **end-to-end**:
+from CPU/cache behavior → to kernel/syscalls → to networking → to deployment.
+
+→ **Looking for an internship in 2026** — graphics, systems, backend, or infra/DevOps roles where fundamentals matter.
 
 ---
 
@@ -41,17 +46,10 @@ My focus is on **graphics programming and low-level C/C++** — I've written a r
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td valign="top">
-
-**Graphics**
-
-![OpenGL](https://img.shields.io/badge/OpenGL-white?style=flat-square&logo=OpenGL&logoColor=black)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
 </td>
 <td valign="top">
@@ -64,9 +62,31 @@ My focus is on **graphics programming and low-level C/C++** — I've written a r
 </td>
 <td valign="top">
 
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat-square&logo=gnu&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Graphics**
+
+![OpenGL](https://img.shields.io/badge/OpenGL-white?style=flat-square&logo=OpenGL&logoColor=black)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
+</td>
+<td valign="top">
+ 
 **Web & Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
@@ -74,22 +94,11 @@ My focus is on **graphics programming and low-level C/C++** — I've written a r
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io)
 
 </td>
-<td valign="top">
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat-square&logo=gnu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-</td>
 </tr>
 </table>
 
 **Currently learning**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=c8c9cb)
 
