@@ -14,7 +14,6 @@
 
 [![42 Paris](https://img.shields.io/badge/42_Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr/)
 [![Open to internship](https://img.shields.io/badge/Open_to_internship-2026-brightgreen?style=for-the-badge)](mailto:anicet.gruet3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anicet.gruet3@gmail.com)
 
 </div>
