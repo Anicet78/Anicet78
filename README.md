@@ -128,7 +128,7 @@ from CPU/cache behavior → to kernel/syscalls → to networking → to deployme
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?user=Anicet78&show=reviews,prs_merged_percentage&hide=stars,issues&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anicet78&show=reviews,prs_merged_percentage&hide=stars,issues&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anicet78&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
