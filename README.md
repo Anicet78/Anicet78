@@ -10,11 +10,9 @@
 ```
 
 **Systems & Graphics Programmer**  
-42 Paris · March 2026
+42 Paris - 42 Lisboa · October 2026
 
 [![42 Paris](https://img.shields.io/badge/42_Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr/)
-[![Open to internship](https://img.shields.io/badge/Open_to_internship-2026-brightgreen?style=for-the-badge)](mailto:anicet.gruet3@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anicet.gruet3@gmail.com)
 
 </div>
 
@@ -30,8 +28,6 @@ I've written a ray tracer, a 3D engine, a custom memory allocator, and a UNIX sh
 
 I care about understanding systems **end-to-end**:
 from CPU/cache behavior → to kernel/syscalls → to networking → to deployment.
-
-→ **Looking for an internship in 2026** — graphics, systems, backend, or infra/DevOps roles where fundamentals matter.
 
 ---
 
@@ -132,7 +128,7 @@ from CPU/cache behavior → to kernel/syscalls → to networking → to deployme
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anicet78&show=reviews,prs_merged_percentage&hide=stars,issues&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=Anicet78&show=reviews,prs_merged_percentage&hide=stars,issues&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anicet78&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
